@@ -9,8 +9,8 @@ Tiny Tiny RSS plugin to remove sandbox attribute on some iframes in feeds, to ma
 
 ## Installation
 
-1. Download the folder `remove_iframe_sandbox`
-1. Move the folder `remove_iframe_sandbox` to your TT-RSS plugins directory
+1. Checkout the directory into your TT-RSS root folder
+1. `git clone https://github.com/DIYgod/ttrss-plugin-remove-iframe-sandbox.git plugins.local/remove_iframe_sandbox`
 1. Enable `remove_iframe_sandbox` in your TT-RSS's `Preferences` -> `Plugins`
 
 or
